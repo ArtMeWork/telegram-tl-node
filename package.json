@@ -10,13 +10,13 @@
     "library"
   ],
   "author": "Enrico Stara <enrico.stara@gmail.com>",
-  "homepage": "https://github.com/enricostara/telegram-tl-node",
+  "homepage": "https://github.com/ArtMeWork/telegram-tl-node",
   "repository": {
     "type": "git",
-    "url": "git://github.com/enricostara/telegram-tl-node.git"
+    "url": "git://github.com/ArtMeWork/telegram-tl-node.git"
   },
   "bugs": {
-    "url": "https://github.com/enricostara/telegram-tl-node/issues"
+    "url": "https://github.com/ArtMeWork/telegram-tl-node/issues"
   },
   "license": "MIT",
   "dependencies": {
